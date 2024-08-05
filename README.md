@@ -1,7 +1,7 @@
 
 # E-Commerce Back End
 ## Description
-Module 13 Challenge, Manage Products, Tags, Categories in the server database. My Challenge was to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a PostgreSQL database.
+Module 13 Challenge, Manage Products, Tags, Categories in the server database. My Challenge was to build the back end for an e-commerce site. Taking a working Express.js API and configure it to use Sequelize to interact with a PostgreSQL database.
 ## Installation
 Download Repo on GitHub: https://github.com/WickedDan/BackEnd-Mod13.git
 ## Usuage Information
