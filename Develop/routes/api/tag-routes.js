@@ -67,7 +67,7 @@ router.delete('/:id', (req, res) => {
   })
     .then((delTag) => {
       if (delTag === 0) {
-        return res.status(404).json({ msg: "no category" });
+        return res.status(404).json({ msg: "no Tag" });
       }
       res.json(delTag);
     })
